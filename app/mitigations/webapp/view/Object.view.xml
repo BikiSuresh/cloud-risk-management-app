@@ -13,8 +13,8 @@
         busyIndicatorDelay="{objectView>/delay}">
 
         <semantic:titleHeading>
-            <Title
-                text="{description}" level="H5"/>
+            <Title level='H6'
+                text="{description}"/>
         </semantic:titleHeading>
 
         <semantic:headerContent>
